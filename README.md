@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deepti Sahu 
+# 👋 Welcome! I'm Deepti Sahu — A Data Analyst turning raw data into actionable insights.
 
 **🎯 Data Analyst | Excel • SQL • Python • Dashboards • ETL • Feature Engineering**
 
