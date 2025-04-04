@@ -19,6 +19,7 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
 ### 🧑‍💻 Coding Ninjas – Data Analytics Course  
 **Institution:** Coding Ninjas (Online)  
 **Duration:** 10 sep 2024 to ongoing
+
 **What I Learned:**
 - Python for Data Analysis (Pandas, NumPy, Seaborn, Matplotlib)  
 - SQL for data querying and manipulation  
