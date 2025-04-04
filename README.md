@@ -27,6 +27,7 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
 
   ## 🏅 Certifications
   [Click here for excel certificate]  https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/excel%20complition%20certificate.pdf
+  [Click here for SQL certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/complition%20mysql%20certificate.pdf
 
  
 
