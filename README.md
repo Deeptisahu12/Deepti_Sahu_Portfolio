@@ -30,6 +30,7 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
   - [Click here for SQL certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/complition%20mysql%20certificate.pdf
   - [Click here for 10x Hackthon certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/10x%20club%20hackothon%20certificate.pdf
   - [click here to view certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/Coding%20Ninjas%20Excel%20Workshop%20Participation%20Certificate%20-%20Copy.pdf
+  - [click here for soft skills certificate] 
 
  
 
