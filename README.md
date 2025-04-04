@@ -17,7 +17,7 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
 ### 🧑‍💻 Coding Ninjas – Data Analytics Course  
 **Institution:** Coding Ninjas (Online)  
 **Duration:** 10 sep 2024 to ongoing
-**What I Learned:**  
+**What I Learned:**
 - Python for Data Analysis (Pandas, NumPy, Seaborn, Matplotlib)  
 - SQL for data querying and manipulation  
 - Excel for data organization and cleaning  
@@ -42,4 +42,5 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
     | 🛒 **E-Commerce Sales Analysis** | Conducted in-depth analysis of e-commerce sales, customer behavior, and product performance using SQL. Identified best-selling products, customer segments, and purchase trends to enhance marketing and inventory decisions. for view the sql code click here https://github.com/Deeptisahu12/E-Commerce-Case-Study-using-SQL/blob/main/E-commerce%20analysis%20quesry%20case%20study.sql  | SQL |
     | 🛍️ **Retail Analytics Case Study** | Analyzed retail sales, customer segmentation, and loyalty trends using SQL. Identified top and low-selling products, categorized customers, and provided insights to optimize marketing and inventory strategies. for view the queries click here -- data cleaning process https://github.com/Deeptisahu12/Retail_Analytics_Case_Study_using_MYSQL/blob/main/retail%20case%20study%201%20data%20cleaning.sql ,  data analysis https://github.com/Deeptisahu12/Retail_Analytics_Case_Study_using_MYSQL/blob/main/Analysis%20Queries.sql | SQL |
     | 🛒 **Consumer Shopping Trends Analysis** | Analyzed shopping behavior by category, season, and purchase patterns to uncover insights about customer preferences and trends. Visualized key metrics using Excel charts and pivot tables. click here for view the case study https://github.com/Deeptisahu12/Shopping-trends-analysis-using-excel | Excel |
-    📦 **Amazon E-Commerce Orders & Sales Analysis** | Analyzed Amazon orders from 14 countries with a focus on mobile accessories. Explored order trends, customer behavior, and regional performance to uncover insights for boosting order volume and revenue. for casestudy click here https://github.com/Deeptisahu12/Amazon-E-commerce-Orders-and-Sales-Analysis-Using-EXCEL | Excel |
+    |📦 **Amazon E-Commerce Orders & Sales Analysis** | Analyzed Amazon orders from 14 countries with a focus on mobile accessories. Explored order trends, customer behavior, and regional performance to uncover insights for boosting order volume and revenue. for casestudy click here https://github.com/Deeptisahu12/Amazon-E-commerce-Orders-and-Sales-Analysis-Using-EXCEL | Excel |
+    | 💳 **PayPal Transactions Analysis** | Analyzed transaction volume, currency distribution, country-wise trends, merchant performance, and user activity using MySQL. Extracted actionable insights to understand transaction patterns and support strategic decisions. for queries click here https://github.com/Deeptisahu12/PayPaltransaction-using-Mysql/blob/main/paypal_transaction%20main%20file.sql| SQL |
