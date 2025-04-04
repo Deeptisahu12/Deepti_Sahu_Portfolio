@@ -39,7 +39,7 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
     |---------------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------|
     |🏥 **US Healthcare Data Analysis**| Cleaned, aggregated, and visualized healthcare data to identify trends and patterns. click here for project https://github.com/Deeptisahu12/US-Healthcare-finding-insight-using-excel/tree/main                       | Excel         |
     | 📈 **CPI Inflation Trend Analysis** | Analyzed monthly and yearly inflation across sectors like food, housing, transportation, and healthcare to understand cost trends over time.click here for project https://github.com/Deeptisahu12/CPI-Inflation-Analysis-Excel  | Excel |
-
+    | 🛒 **E-Commerce Sales Analysis** | Conducted in-depth analysis of e-commerce sales, customer behavior, and product performance using SQL. Identified best-selling products, customer segments, and purchase trends to enhance marketing and inventory decisions. for view the sql code click here  | SQL |
 
  
 
