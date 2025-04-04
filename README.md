@@ -26,7 +26,7 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
 - Capstone Projects for Real-world Case Studies
 
   ## 🏅 Certifications
-  [Click here to view certificate]
+  [Click here for excel certificate]  https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/excel%20complition%20certificate.pdf
 
  
 
