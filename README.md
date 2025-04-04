@@ -33,5 +33,8 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
   - [click here for soft skills certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/Soft%20skills%20certificate.jpg
   - [click here for cisco data scince certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/Introduction_to_Data_Science_certificate_deeptisahu8303-gmail-com_cae53b8a-15b2-4c46-ab80-fe82c2817d45.pdf
 
+    ## 📊 Case Studies & Projects
+
+
  
 
