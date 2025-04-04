@@ -2,6 +2,8 @@
 
 **🎯 Data Analyst | Excel • SQL • Python • Dashboards • ETL • Feature Engineering**
 
+🚀 I'm continuously learning and working on real-world data problems. Open to collaboration, freelance projects, and full-time opportunities in data analytics!
+
 I specialize in transforming raw data into meaningful insights that drive data-informed decisions. With a solid foundation in **Excel** and **SQL**, I efficiently extract, clean, and analyze structured datasets to uncover valuable business intelligence.
 
 Leveraging **Python** and its robust ecosystem — including **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Dask** (for large-scale data) — I perform advanced data analysis, data cleaning, and preprocessing. My experience also includes **feature engineering**, **ETL processes**, and building reproducible workflows for analytics pipelines.
@@ -48,3 +50,9 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
     | 🤖 **Machine Learning on Sales Data** | Built a predictive model using a hybrid approach — Dask for preprocessing large-scale sales data (5M+ rows), and Pandas + Scikit-learn for modeling. Implemented full ML pipeline including feature selection, data cleaning, regression/classification modeling, hyperparameter tuning, and model evaluation. for view the case study click here https://github.com/Deeptisahu12/Task2_PREDICTIVE-ANALYSIS-USING-MACHINE-LEARNING/blob/main/Task%202.ipynb | Python (Dask, Pandas, Scikit-learn) |
     | 📊 **Sales & Profit Dashboard in Power BI** | Developed an interactive dashboard in Power BI to visualize sales trends, profitability, and product performance. Included line charts for trends, bar charts for regional/category profits, pie charts for sales channels, and a treemap of best/worst-performing products. for view the visual click here https://github.com/Deeptisahu12/Task-3_DASHBOARD-DEVELOPMENT_power-BI/blob/main/DashBoard%20of%20Sales.pdf | Power BI |
     | 💬 **Sentiment Analysis on Airline Tweets** | Performed text classification to predict sentiment (positive, negative, neutral) from tweets using Python. Cleaned and processed 14K+ rows of raw text data. Used TF-IDF vectorization and trained a Multinomial Naive Bayes classifier. Evaluated performance using accuracy, confusion matrix, and classification report. click here for view the case study https://github.com/Deeptisahu12/Task-4_SENTIMENT-ANALYSIS_USING_PYTHON/blob/main/Task%204.ipynb | Python (Pandas, Seaborn, Matplotlib, Scikit-learn, WordCloud) |
+
+
+## 💼 Let’s Connect
+***💬 Thank you for exploring my portfolio!***
+Feel free to connect with me on https://www.linkedin.com/in/deepti34/, or reach out for collaborations and opportunities in the field of Data Analytics.
+    
