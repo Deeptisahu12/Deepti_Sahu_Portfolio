@@ -37,7 +37,7 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
 
     |    📁 **Project**              |                                       💡 **Description**                                                                           | 🧰 **Tools** |
     |---------------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------|
-    |🏥 **US Healthcare Data Analysis**| Cleaned, aggregated, and visualized healthcare data to identify trends and patterns. click here for project                        | Excel         |
+    |🏥 **US Healthcare Data Analysis**| Cleaned, aggregated, and visualized healthcare data to identify trends and patterns. click here for project https://github.com/Deeptisahu12/US-Healthcare-finding-insight-using-excel/tree/main                       | Excel         |
 
 
 
