@@ -34,7 +34,8 @@ I apply **machine learning** techniques using **Scikit-learn** to build predicti
   - [Click here for 10x Hackthon certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/10x%20club%20hackothon%20certificate.pdf
   - [click here to view certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/Coding%20Ninjas%20Excel%20Workshop%20Participation%20Certificate%20-%20Copy.pdf
   - [click here for soft skills certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/Soft%20skills%20certificate.jpg
-  - [click here for cisco data science certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/Introduction_to_Data_Science_certificate_deeptisahu8303-gmail-com_cae53b8a-15b2-4c46-ab80-fe82c2817d45.pdf
+  - [click here for cisco data science certificate] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/HackStudio_%20May'25%20Certificate%20of%20Achievement_page-0001.jpg
+  - [click here for product management certificate ] https://github.com/Deeptisahu12/Deepti_Sahu_Portfolio/blob/main/CN%2010X%20Club%20-%20Product%20Management%20Workshop%20Certificate_page-0001.jpg
 
     ## 📊 Case Studies & Projects
 
